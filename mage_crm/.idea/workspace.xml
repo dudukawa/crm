@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5adcb171-8ccf-4ba4-a7af-1798d9f00dd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ToolsSoftware/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ToolsSoftware\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0ONopXaQS8R3bXAG9YgNoq3iW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xxx_crm/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Maven.crm [tomcat8:run]">
+    <configuration default="true" type="JettyConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT" />
+                <name>CONTEXT</name>
+              </WatchedTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Jetty" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11922" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crm [tomcat8:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat8:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.crm [tomcat8:run]" />
+      <item itemvalue="Maven.run" />
+      <item itemvalue="Maven.package" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5adcb171-8ccf-4ba4-a7af-1798d9f00dd2" name="Default Changelist" comment="" />
+      <created>1578283007854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578283007854</updated>
+      <workItem from="1578283011200" duration="1687000" />
+      <workItem from="1578294254616" duration="607000" />
+      <workItem from="1578294873365" duration="108000" />
+      <workItem from="1578295198683" duration="34000" />
+      <workItem from="1578296498508" duration="1042000" />
+      <workItem from="1581917844976" duration="296000" />
+      <workItem from="1581918174491" duration="1292000" />
+      <workItem from="1581926612669" duration="4658000" />
+      <workItem from="1581942191698" duration="15082000" />
+      <workItem from="1582124363122" duration="2381000" />
+      <workItem from="1582165383437" duration="529000" />
+      <workItem from="1582198693648" duration="232000" />
+      <workItem from="1582199079621" duration="2297000" />
+      <workItem from="1582271097935" duration="7881000" />
+      <workItem from="1582394461169" duration="328000" />
+      <workItem from="1582428495032" duration="4497000" />
+      <workItem from="1582600778942" duration="15131000" />
+      <workItem from="1582882691022" duration="2428000" />
+      <workItem from="1583162496470" duration="2325000" />
+      <workItem from="1583327206775" duration="4947000" />
+      <workItem from="1583586011413" duration="3435000" />
+      <workItem from="1583630884350" duration="3013000" />
+      <workItem from="1583724572553" duration="6791000" />
+      <workItem from="1583809411109" duration="2758000" />
+      <workItem from="1583890431354" duration="2009000" />
+      <workItem from="1584086459523" duration="103000" />
+      <workItem from="1584170515756" duration="9217000" />
+      <workItem from="1584249743174" duration="14350000" />
+      <workItem from="1584287808175" duration="1492000" />
+      <workItem from="1584325608623" duration="5844000" />
+      <workItem from="1584413355530" duration="2415000" />
+      <workItem from="1584513190701" duration="16258000" />
+      <workItem from="1584586415585" duration="5383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1582428522120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582428522120" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582125450382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582125450382" />
+    <state x="561" y="60" key="FileChooserDialogImpl" timestamp="1583767845758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583767845758" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1584631794883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584631794883" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1584631794883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584631794883" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1584631794882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584631794882" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1584631794883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584631794883" />
+    <state x="220" y="0" key="SettingsEditor" timestamp="1583768501604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="220" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583768501604" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584586415986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584586415986" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583166423417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583166423417" />
+  </component>
+</project>

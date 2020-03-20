@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:17:03:05 +0800] "GET /crm/index HTTP/1.1" 200 4833 http-nio-8080-exec-1 298
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:17:03:05 +0800] "GET /crm/resources/admin/layout2/img/logo-big.png HTTP/1.1" 500 3181 http-nio-8080-exec-2 87
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:17:06:34 +0800] "GET /Reim/index HTTP/1.1" 404 - http-nio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:18:01:42 +0800] "GET /crm/index HTTP/1.1" 200 4833 http-nio-8080-exec-1 411
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:18:01:42 +0800] "GET /crm/resources/admin/layout2/img/logo-big.png HTTP/1.1" 500 3181 http-nio-8080-exec-2 87
